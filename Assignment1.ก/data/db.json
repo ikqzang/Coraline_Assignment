@@ -1,0 +1,14 @@
+[
+    {
+        "username" : "user1",
+        "password" : "password1",
+        "data" : ["chirakit","limsomboon","085-066-5055","1997-06-28"]
+    },
+    {
+        "username" : "user2",
+        "password" : "password2",
+        "data" : ["jirakit","limsomboon","085-066-5055","1997-06-28"]
+    }
+
+
+]
